@@ -9,6 +9,7 @@ ConfigVersion: '1.0'
 
 #📝📝📝📝Permissions📝📝📝📝📝
 #Laser.Give - Access to give themselves lasers. The plugin will give you the correct syntax
+#Laser.Reload - Access to reload the plugin
 #📝📝📝📝Permissions📝📝📝📝📝
 
 #✍✍✍✍You can Modify the following how you wish✍✍✍✍✍
